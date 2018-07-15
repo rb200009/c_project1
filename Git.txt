@@ -1,0 +1,38 @@
+MD file extn MEta data.
+
+git clone 
+ls -lrt
+
+touch file 7
+
+git add file 7
+
+git commit -m "adding file 7"
+
+git push origin master
+
+" git pull origin master " step 1
+
+
+pull is remote to local
+
+Origin (link which was givne during clone"
+
+Master - (usually not touched)
+
+
+git ls-files
+
+git push origin master 
+
+touch file 8
+
+git status (it shows red)
+
+git pull origin master
+
+git push origin master
+
+git clone is (copying project)
+
+git config --list
